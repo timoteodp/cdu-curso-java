@@ -9,6 +9,7 @@ public class Import {
 		java.lang.System.out.println(b);
 		
 		String s = "Bom dia!";
+		System.out.println("*********** ");
 		System.out.println(s);
 		
 		Date d = new Date();

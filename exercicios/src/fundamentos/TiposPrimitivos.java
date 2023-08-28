@@ -20,6 +20,7 @@ public class TiposPrimitivos {
 		
 		// Tipo caractere
 		char status = 'A'; // ativo
+		System.out.println("**************");
 		
 		// Dias de empresa
 		System.out.println(anosDeEmpresa * 365);

@@ -2,7 +2,7 @@ package fundamentos;
 
 /**
  * 
- * @author leonardomleitao
+ * @author dima
  * @since JDK1.0
  */
 public class PrimeiroPrograma {
@@ -11,6 +11,7 @@ public class PrimeiroPrograma {
 	 * ...
 	 * @param args
 	 */
+
 	public static void main(String[] args) {
 		
 		// Sentença de código termina com ;
